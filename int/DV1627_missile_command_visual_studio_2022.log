@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\casso\source\repos\Proj\SpaceShooter\main.cpp(3,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Explosion.cpp
+C:\Users\casso\source\repos\Proj\SpaceShooter\include\SceneObject.hpp(4,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Line.cpp
+C:\Users\casso\source\repos\Proj\SpaceShooter\include\Line.hpp(4,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Meteor.cpp
+C:\Users\casso\source\repos\Proj\SpaceShooter\include\SceneObject.hpp(4,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Missile.cpp
+C:\Users\casso\source\repos\Proj\SpaceShooter\include\SceneObject.hpp(4,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Projectile.cpp
+C:\Users\casso\source\repos\Proj\SpaceShooter\source\Projectile.cpp(1,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Scene.cpp
+C:\Users\casso\source\repos\Proj\SpaceShooter\include\SceneObject.hpp(4,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  SceneObject.cpp
+C:\Users\casso\source\repos\Proj\SpaceShooter\include\SceneObject.hpp(4,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Tower.cpp
+C:\Users\casso\source\repos\Proj\SpaceShooter\source\Tower.cpp(8,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  VectorMath.cpp
+C:\Users\casso\source\repos\Proj\SpaceShooter\include\VectorMath.hpp(4,10): fatal  error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Generating Code...
